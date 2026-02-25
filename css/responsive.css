@@ -1,0 +1,101 @@
+
+
+@media screen and (max-width: 1206px){
+    .hero-content{
+        width: 90%;
+    }
+    .pre-text p{
+        font-size: 14px;
+    }
+}
+
+
+
+@media screen and (max-width: 900px){
+    
+    .hero-content h1{
+        font-size: 50px;
+    }
+    .gobal-btn a::after{
+        display: none;
+    }
+    .for-dektop{
+        display: none;
+    }
+    .gobal-btn{
+        margin-bottom: 50px;
+    }
+    .hero-content p{
+        font-size: 20px;
+    }
+    .slide-image h3{
+        font-size: 30px;
+    }
+    .section-title{
+        width: 100%;
+    }
+    .pricing .col-lg-4{
+        margin-bottom: 40px;
+    }
+    .testmonail-card{
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .testminail-container{
+        padding: 0;
+        
+        background: transparent;
+    }
+    .section-padding{
+        padding: 50px 0;
+    }
+    .out-box{
+        height: auto;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .cta h1 {
+    font-size: 50px;
+}
+
+}
+@media screen and (max-width: 600px){
+    .for-dektop{
+        display: none;
+    }
+    .hero-content h1{
+        font-size: 40px;
+    }
+    .hero-content p{
+        font-size: 18px;
+    }
+    .happy-client{
+        width: 100%;
+        padding-left: 0;
+    }
+    .video-wrapper{
+        width: 100%;
+    }
+    .play-button img{
+        width: 100px;
+    }
+    .slide-image h3 {
+        font-size: 24px;
+    }
+    .section-title h2{
+        font-size: 40px;
+    }
+    .section-title p{
+        font-size: 18px;
+    }
+    .cta {
+        padding: 100px 0;
+    }
+    .cta h1{
+        font-size: 40px;
+    }
+    .cta p{
+        font-size: 16px;
+    }
+}
+
