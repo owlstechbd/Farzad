@@ -56,3 +56,5 @@ const faqItems = document.querySelectorAll(".faq-item");
 
 //animated
 AOS.init();
+
+
